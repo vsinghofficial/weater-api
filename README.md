@@ -1,2 +1,2 @@
-# weater-api
+# weather-api
 weather api
