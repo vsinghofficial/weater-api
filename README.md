@@ -1,2 +1,2 @@
 # weater-api
-weather apo
+weather api
